@@ -7,10 +7,9 @@
 On device meeting assistant to extract meeting minutes,emphazing main points, schedule future meetings and setting reminders all in one utlizing the power of  machine learning using smartphone audio recorder. You just have to click the record button and the magic happens. 
 
 **You are supposed to do better work than writing minutes.**
+<hr>
 
 ### Idea 
----
-
 Meetings are part of our life whether it is a gathering with our friends discussing great ideas or sitting professionally in a office meeting room to discuss the upcoming project or maybe getting a business advise from your mentor. It is just very difficult to listen and write at the same time. Even if we dedicate a separate person for the writing part and scheduling part. It is just too hard to jot down everything ultimately leaving some great idea. We, Humans are supposed to do better work than this. To address this, a mobile application powered by on-device machine learning can adress this everything. You just have to open the application and click the record button before your meeting. It will record your conversation and converts into text and separating into conversations of different persons i-e it will give you a name while labelling other people conversation with easy to tag feature. Now this text is processed by another machine learning model which then extracts based on a template separting into attendes, agenda, main points, milestones, & future meetings which then synced with a calender to set the relevant reminders necessary. All of this, with you focusing on the main stuff acheiving the main agenda rather than organizing stuff.
 
 <!---
@@ -20,6 +19,8 @@ Describe where your project is, how you could use Google’s help in the endeavo
 (2) a list of the ways you could use Google’s help, 
 (3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 -->
+<hr>
+
 ## Project Stage
 
 The project is in idea phase, so there is no any sample code as of written.
@@ -63,7 +64,10 @@ Tell us about you.
  A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
 --->
 
+<hr>
+
 ### About Me
+
 
 Inquisitive and risk-taker by nature, I have always undertaken projects that are technical, relatable, innovative and fun at the same time. After my graduation in 2018, I had started working on indoor navigation and founded Mapin Co. which can be found at https://www.mapin.app.
 
