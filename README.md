@@ -1,8 +1,10 @@
 # AI Meeting Assistant
 
+<img src="./adc-cover.gif">
+
 ## Big Picture
 
-On device meeting assistant to extract meeting minutes,emphazing main points, schedule future meetings and setting reminders all in one utlizing the power of  machine learning using smartphone.
+On device meeting assistant to extract meeting minutes,emphazing main points, schedule future meetings and setting reminders all in one utlizing the power of  machine learning using smartphone audio recorder. You just have to click the record button and the magic happens. 
 
 **You are supposed to do better work than writing minutes.**
 
@@ -63,9 +65,9 @@ Tell us about you.
 
 ### About Me
 
-Inquisitive and risk-taker by nature, I have always undertaken projects that are technical, relatable, innovative and fun at the same time. The thing that contributed to the impetus for such a project was that of one of my friends took over an hour to find his car that he parked within a massive mall in Dubai. His recollection gave me an idea for my final year project, that of indoor navigation. In our final year, we fleshed out the concept for such a solution and evaluated several methods. Our team won university award and earned recognition from university-wide professors and industry. Subsequently, I decided to work on this idea further (and commercialize it). I have founded Mapin Co. which can be found at https://www.mapin.app.
+Inquisitive and risk-taker by nature, I have always undertaken projects that are technical, relatable, innovative and fun at the same time. After my graduation in 2018, I had started working on indoor navigation and founded Mapin Co. which can be found at https://www.mapin.app.
 
-Along with understanding the nuances of business, I have been actively developing the technical side ranging from working Backend and Server Side to Mobile application development solely.
+Along with understanding the nuances of business, I have been actively developing the technical side ranging from working Backend and Server Side to mobile application development solely.
 
 There are some of the application which can be found here.
 
@@ -78,9 +80,12 @@ An application to navigate indoors particulary malls. I have designed the backen
   
 - **MapIn Events**
 
-Building upon the experience of MapIn, I have developed another application in partnership with one of the event organiser.The purpose was to give the event visitors a personal assistant where they get to know about the schedule and can locate and visit different stalls. The application can be found here: 
+Building upon the experience of MapIn, I have developed another application in partnership with one of the event organiser.The purpose was to give the event visitors a personal assistant where they get to know about the schedule and can locate and visit different stalls. The application got much appreciation. In this application, I have used the methodology of android architecture components.I was develop, deploy and test this application within a week. The application can be found here: 
 
   *https://play.google.com/store/apps/details?id=app.com.mapinevents*
+
+Here is the github link:
+https://github.com/Amerkumar/mapin-events
 
 - **Centaurus Mall**
 
@@ -88,6 +93,9 @@ Building upon the experience of MapIn, I have also developed another application
 
   *https://play.google.com/store/apps/details?id=app.com.thecentaurusmall*
 
+
+Here is the github link:
+https://github.com/Amerkumar/centaurus-mall-application
 
 Nowadays, I have started to learn to flutter and I am enjoying it a lot. I am experimenting with web support of flutter and updating my portfolio site in flutter. 
 
